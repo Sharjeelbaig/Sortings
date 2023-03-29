@@ -28,7 +28,7 @@ This repository is licensed under the MIT License, which means you are free to u
 ## 📝PDF Available!
 You can download the pdf and print it for understanding sorting: 
 
-<a href="https://example.com/file.pdf" download>![download](https://user-images.githubusercontent.com/29815204/228528924-dfd38759-ebab-4757-84fc-6f4c4581187a.png)
+<a href="./sorting.pdf" download>![download](https://user-images.githubusercontent.com/29815204/228528924-dfd38759-ebab-4757-84fc-6f4c4581187a.png)
 </a>
 
 
