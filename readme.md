@@ -2,6 +2,7 @@
 
 Welcome to this Github repository created by Sharjeel Baig, which will help you learn about different sorting algorithms in C++. The main data structure used for these sorting algorithms is an array.
 
+
 In this repository, you will learn about the following sorting algorithms:
 - 🧼 Bubble Sort
 - 🎯 Selection Sort
@@ -23,5 +24,12 @@ Contributions to this repository are always welcome! If you have a suggestion or
 
 ## 📜 License
 This repository is licensed under the MIT License, which means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the original work. See the [LICENSE](LICENSE) file for more details.
+
+## 📝PDF Available!
+You can download the pdf and print it for understanding sorting: 
+
+<a href="https://example.com/file.pdf" download>![download](https://user-images.githubusercontent.com/29815204/228528924-dfd38759-ebab-4757-84fc-6f4c4581187a.png)
+</a>
+
 
 Happy Sorting!
